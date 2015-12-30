@@ -1,0 +1,3 @@
+[submodule "dependencies/KHCocoaPodsFramework1"]
+	path = dependencies/KHCocoaPodsFramework1
+	url = https://github.com/khawkins/KHCocoaPodsFramework1.git
